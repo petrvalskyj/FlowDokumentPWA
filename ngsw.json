@@ -1,0 +1,45 @@
+{
+  "configVersion": 1,
+  "index": "/FlowDokumentPWA/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/FlowDokumentPWA/favicon.ico",
+        "/FlowDokumentPWA/index.html",
+        "/FlowDokumentPWA/inline.c2cb177d7616ec43fe66.bundle.js",
+        "/FlowDokumentPWA/main.eb1008c21b4ea0b06066.bundle.js",
+        "/FlowDokumentPWA/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
+        "/FlowDokumentPWA/styles.d41d8cd98f00b204e980.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/FlowDokumentPWA/assets/icon-128x128.png",
+        "/FlowDokumentPWA/assets/icon-152x152.png",
+        "/FlowDokumentPWA/assets/icon-256x256.png",
+        "/FlowDokumentPWA/assets/icon-512x512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/FlowDokumentPWA/inline.c2cb177d7616ec43fe66.bundle.js": "419ccae8722fd81d7321bbd73180824b884d6c9f",
+    "/FlowDokumentPWA/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
+    "/FlowDokumentPWA/main.eb1008c21b4ea0b06066.bundle.js": "891f2c481ea26af521e4d3df6a29e26ddf2decea",
+    "/FlowDokumentPWA/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
+    "/FlowDokumentPWA/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
+    "/FlowDokumentPWA/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
+    "/FlowDokumentPWA/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/FlowDokumentPWA/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
+    "/FlowDokumentPWA/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/FlowDokumentPWA/index.html": "44ddf6381e0cdc972f3db946845e273052fa40db"
+  }
+}
