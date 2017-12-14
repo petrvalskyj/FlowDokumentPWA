@@ -1,0 +1,48 @@
+{
+    "menu": {
+        "home": "Přehled",
+        "flowDokumentForOwner": "Dokumenty k editaci",
+        "flowDokumentForUser": "Dokumenty k vyjádření",
+        "flowDokNotifikace": "Oznámení",
+        "orgUtvar": "Org.útvary",
+        "seznamUzivatelu": "Seznam uživatelů",
+        "login": "přihlásit/odhlásit uživatele",
+        "about": "Informace o ..."
+    },
+    "home": {
+        "title": "Souhrnný přehled",
+        "description": "" ,
+        "xdescription": "...přehled k jednotlivým agendám, po kartách (počet rozeditaovaných dok | počet dok. k vyjádření | počet upozornění za 1 den, za 7 dní, za měsíc)"
+    },
+    "flowDokumentForOwner": {
+        "title": "Dokumenty k editaci",
+        "description": "..."
+    },
+    "flowDokumentForUser": {
+        "title": "Dokumenty k vyjádření",
+        "description": "..."
+    },
+    "flowDokNotifikace": {
+        "title": "Oznámení a upozornění k dokumentům",
+        "description": "..."
+    },
+    "orgUtvar": {
+        "title": "Organizační útvary",
+        "description": "..."
+    },
+    "seznamUzivatelu": {
+        "title": "Seznam uživatelů",
+        "description": "..."
+    },
+    "login": {
+        "title": "přihlásit/odhlásit uživatele",
+        "description": ""
+    },
+    "about": {
+        "title": "Pracovní info",
+        "description": "This component was rendered from a lazy-loaded module."
+    },
+    "phone": {
+        "edition": "Phone Edition!"
+    }
+}

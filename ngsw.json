@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/FlowDokumentPWA/favicon.ico",
         "/FlowDokumentPWA/index.html",
-        "/FlowDokumentPWA/inline.b1b9d3c3b1b17cb3e66d.bundle.js",
-        "/FlowDokumentPWA/main.f57c622d60891bf1d6e6.bundle.js",
-        "/FlowDokumentPWA/polyfills.f039bbc7aaddeebcb9aa.bundle.js",
-        "/FlowDokumentPWA/styles.d41d8cd98f00b204e980.bundle.css"
+        "/FlowDokumentPWA/0.fe63a2c48f38fcbf5d90.chunk.js",
+        "/FlowDokumentPWA/inline.4e51a173681b9d9036d0.bundle.js",
+        "/FlowDokumentPWA/main.4d11d406e3d696ed54eb.bundle.js",
+        "/FlowDokumentPWA/polyfills.e4e2dd01ae34ebbd905a.bundle.js",
+        "/FlowDokumentPWA/styles.02eca7e126a5231f87a7.bundle.css"
       ],
       "patterns": []
     },
@@ -24,22 +24,48 @@
         "/FlowDokumentPWA/assets/icon-128x128.png",
         "/FlowDokumentPWA/assets/icon-152x152.png",
         "/FlowDokumentPWA/assets/icon-256x256.png",
-        "/FlowDokumentPWA/assets/icon-512x512.png"
+        "/FlowDokumentPWA/assets/icon-512x512.png",
+        "/FlowDokumentPWA/assets/Manuál webové aplikace pro schvalování dokumentů - verze 0.9.pdf",
+        "/FlowDokumentPWA/assets/vltConfig.json",
+        "/FlowDokumentPWA/assets/i18n/cs.json",
+        "/FlowDokumentPWA/assets/i18n/en.json",
+        "/FlowDokumentPWA/assets/img/1-properties.png",
+        "/FlowDokumentPWA/assets/img/about_paint.png",
+        "/FlowDokumentPWA/assets/img/AcceptChange.png",
+        "/FlowDokumentPWA/assets/img/BO_Persons_Large.png",
+        "/FlowDokumentPWA/assets/img/ico-index-login.png",
+        "/FlowDokumentPWA/assets/img/login.png",
+        "/FlowDokumentPWA/assets/img/logo_cz.png",
+        "/FlowDokumentPWA/assets/img/logo_footer.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/app\\.valet\\.cz\\/flowDokument\\/api\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/FlowDokumentPWA/inline.b1b9d3c3b1b17cb3e66d.bundle.js": "49faeccf1fd11f7b8b16e6fa31c55e56dd7334e7",
+    "/FlowDokumentPWA/0.fe63a2c48f38fcbf5d90.chunk.js": "5ad7f39a980e5f6523c10bb2b5f48fcf1b691ba6",
     "/FlowDokumentPWA/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "/FlowDokumentPWA/main.f57c622d60891bf1d6e6.bundle.js": "642419aff2914451a8a246a6f7d218b5a889621a",
+    "/FlowDokumentPWA/inline.4e51a173681b9d9036d0.bundle.js": "245eb1f3888e2fa7d5b64040366cc2e3052f52ac",
     "/FlowDokumentPWA/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
-    "/FlowDokumentPWA/polyfills.f039bbc7aaddeebcb9aa.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
+    "/FlowDokumentPWA/main.4d11d406e3d696ed54eb.bundle.js": "c17b8997b795e104503d81726571f64a5258e1ac",
     "/FlowDokumentPWA/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "/FlowDokumentPWA/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/FlowDokumentPWA/polyfills.e4e2dd01ae34ebbd905a.bundle.js": "087e019c723a3678aa4e90fa967ff9390f84ce48",
     "/FlowDokumentPWA/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
-    "/FlowDokumentPWA/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/FlowDokumentPWA/index.html": "285d5f3a0f75fefee90299a954cd6ad6cb98361a"
+    "/FlowDokumentPWA/styles.02eca7e126a5231f87a7.bundle.css": "b9a385b8a2da86ebdee47957dd8d42224a0123e8",
+    "/FlowDokumentPWA/assets/Manuál webové aplikace pro schvalování dokumentů - verze 0.9.pdf": "f8c2545fe71a77562163e81ab8884eccc2048126",
+    "/FlowDokumentPWA/index.html": "16cb68b2b57b5c882cd5c86a4919bdd1362cc2d6",
+    "/FlowDokumentPWA/assets/vltConfig.json": "904fa5700d84a550f063a4100af4ac025d56260f",
+    "/FlowDokumentPWA/assets/i18n/cs.json": "a4ad31ba8ed2252807294d395d780e0db7b0171f",
+    "/FlowDokumentPWA/assets/i18n/en.json": "a4ad31ba8ed2252807294d395d780e0db7b0171f",
+    "/FlowDokumentPWA/assets/img/1-properties.png": "84b899c0cccc88b52e3cb73233875701182ab5af",
+    "/FlowDokumentPWA/assets/img/about_paint.png": "25f91897916439bea543ca2b02c2858dffb656cf",
+    "/FlowDokumentPWA/assets/img/AcceptChange.png": "562131552e9ebc1e0aa6d996f608e882bb5f2416",
+    "/FlowDokumentPWA/assets/img/BO_Persons_Large.png": "a4120c46c3dee6c222c733b5ee5a328323915318",
+    "/FlowDokumentPWA/assets/img/ico-index-login.png": "3c662d53c0b23639c85fccc57bfde7bb38eb1fca",
+    "/FlowDokumentPWA/assets/img/login.png": "b91fdfaaaf53638d49264a2a7b845a3fff891776",
+    "/FlowDokumentPWA/assets/img/logo_cz.png": "6d4db4287bf63724a138a6ad1445431e33ddd079",
+    "/FlowDokumentPWA/assets/img/logo_footer.png": "11ace848b98b765dddcd82da44b67507bdbbc9b5"
   }
 }
