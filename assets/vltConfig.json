@@ -1,5 +1,6 @@
 {
     "APPSETTING_URL": "http://app.valet.cz/flowDokument/api/",
+    "APPSETTING_URL-": "http://localhost:65275/api/",
     "xxx": {
         "yyy": "Abcde..."
     }

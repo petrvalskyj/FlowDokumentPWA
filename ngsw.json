@@ -39,7 +39,7 @@
         "/FlowDokumentPWA/assets/img/logo_footer.png"
       ],
       "patterns": [
-        "https:\\/\\/app\\.valet\\.cz\\/flowDokument\\/api\\/.*"
+        "http:\\/\\/app\\.valet\\.cz\\/flowDokument\\/api\\/.*"
       ]
     }
   ],
@@ -56,7 +56,7 @@
     "/FlowDokumentPWA/styles.02eca7e126a5231f87a7.bundle.css": "b9a385b8a2da86ebdee47957dd8d42224a0123e8",
     "/FlowDokumentPWA/assets/Manuál webové aplikace pro schvalování dokumentů - verze 0.9.pdf": "f8c2545fe71a77562163e81ab8884eccc2048126",
     "/FlowDokumentPWA/index.html": "16cb68b2b57b5c882cd5c86a4919bdd1362cc2d6",
-    "/FlowDokumentPWA/assets/vltConfig.json": "904fa5700d84a550f063a4100af4ac025d56260f",
+    "/FlowDokumentPWA/assets/vltConfig.json": "67bbfeb331f14abe16a562693634fef865a49dd9",
     "/FlowDokumentPWA/assets/i18n/cs.json": "a4ad31ba8ed2252807294d395d780e0db7b0171f",
     "/FlowDokumentPWA/assets/i18n/en.json": "a4ad31ba8ed2252807294d395d780e0db7b0171f",
     "/FlowDokumentPWA/assets/img/1-properties.png": "84b899c0cccc88b52e3cb73233875701182ab5af",
